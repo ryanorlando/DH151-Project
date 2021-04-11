@@ -3,6 +3,8 @@
 This project will be about the weight of data and internet usage in the modern era, with an emphasis on the environmental impact. Our group will be investigating this issue with the goal of determining its severity and investigating potential solutions.
 # Team Members
 
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/396721582cffd3521aa87da2a2c74b820973d362/profile%20photos/33A44E4A-C206-46D9-9508-245EFA8A486F-683AF7CF-FF79-4F64-91E1-7096E3E7D60C.jpg" width = "50">
+
 ![Ainsleigh](https://github.com/ryanorlando/DH151-Project/blob/396721582cffd3521aa87da2a2c74b820973d362/profile%20photos/33A44E4A-C206-46D9-9508-245EFA8A486F-683AF7CF-FF79-4F64-91E1-7096E3E7D60C.jpg =250*250)
 
 Ainsleigh Douglas - Designer
