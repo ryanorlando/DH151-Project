@@ -3,17 +3,17 @@
 This project will be about the weight of data and internet usage in the modern era, with an emphasis on the environmental impact. Our group will be investigating this issue with the goal of determining its severity and investigating potential solutions.
 # Team Members
 
-![Ainsleigh](profile photos/33A44E4A-C206-46D9-9508-245EFA8A486F-683AF7CF-FF79-4F64-91E1-7096E3E7D60C.jpg)
+![Ainsleigh](https://github.com/ryanorlando/DH151-Project/blob/396721582cffd3521aa87da2a2c74b820973d362/profile%20photos/33A44E4A-C206-46D9-9508-245EFA8A486F-683AF7CF-FF79-4F64-91E1-7096E3E7D60C.jpg)
 
 Ainsleigh Douglas - Designer
 Will focus on the design and visual aesthetic of the map and data visualization outputs.
 
-![Ryan](profile photos/IMG_4117.jpg)
+![Ryan](https://github.com/ryanorlando/DH151-Project/blob/396721582cffd3521aa87da2a2c74b820973d362/profile%20photos/IMG_4117.jpg)
 
 Ryan Orlando - Content Creator
 Will primarily aid with narrative development and data analysis.
 
-![Sebastien](profile photos/IMG_1471 copy.jpeg)
+![Sebastien](https://github.com/ryanorlando/DH151-Project/blob/8622e4a100feea39ed027f2dde0d8a5a96b159cc/profile%20photos/IMG_1471%20copy.jpeg)
 
 Sebastien Dills - Data Analytics and Historical Background
 Will work in data analytics and help provide a historical background
