@@ -6,7 +6,6 @@ This project will be about the weight of data and internet usage in the modern e
 Ainsleigh Douglas - Designer
 Will focus on the design and visual aesthetic of the map and data visualization outputs.
 
-
 Ryan Orlando - Content Creator
 Will primarily aid with narrative development and data analysis.
 
@@ -28,9 +27,8 @@ Week | Assignment
 6-7 | Incorporate Additional Interactivity
 
 
-
 # Technical Scope
-
+Will be focusing on the geospatial relationship between the developing data centers and their environmental impact. This will involve us taking a look at their geolocation and comparatively mapping them on a mercator map. The workflow for something like this will involve us programming in HTML and using git to collaboratively create a web page. Programs like leaflet and JavaScript will allow us to create interactive maps in order to make more immersive visualizations for the viewer.
 # Geographic Scope
 In terms of geographic scope the entire world is of relevance in terms of the environment and access to the internet and emerging technologies. When it comes to tracking the impact of actual data centers much of the geographic information will be centered in the United States who accounts for around 40 percent of cloud and internet data centers. Additional regions of importance are Europe, East Asia and Australia; specifically Japan, China, Germany and the United Kingdom. We will see that many countries of South America and Africa are far less represented in terms of concentrations of data centers. The implications and reasons for this are worth investigating.
 # Data
