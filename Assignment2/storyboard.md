@@ -20,17 +20,19 @@
 ## Crazy Eights
 
 ### Sebastien:
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/crazy8sd.jpg" width = "300">
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/crazy8sd.jpg" width = "600">
+</p>
 
 ### Ainsleigh:
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ainsleigh-CrazyEights.png" width = "300">
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ainsleigh-CrazyEights.png" width = "600">
+</p>
 
 ### Ryan:
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ryan-CrazyEights2.JPG" width = "300">
-
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ryan-CrazyEights2.JPG" width = "600">
+</p>
 
 ## Storyboard:
 
