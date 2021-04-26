@@ -46,6 +46,8 @@ Sebastien - I just gave examples of what I wanted each site to look like with ve
 
 Ryan - These ideas present the essentials of what our project will need to successully present our data and findings.
 
+Ainsleigh - Sebastien pulled together the most necessary aspects of a successful site, focusing mainly on our central visualization. 
+
 ### Ainsleigh:
 <p align="center">
 <img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ainsleigh-CrazyEights.png" width = "600">
@@ -54,6 +56,8 @@ Ryan - These ideas present the essentials of what our project will need to succe
 Sebastien -  I liked the way Ainsleigh made each of her slides look. I like the visual element.
 
 Ryan - One thing I really like about this design is the idea for horizontal scrolling across our site. I think it presents an opportunity to make our project more unique and useful to the user.
+
+Ainsleigh - I wanted to focus on the navigational aspect of the site and how hierarchy of elements will better guide the user.
 
 ### Ryan:
 <p align="center">
@@ -64,9 +68,16 @@ Sebastien - Ryan took a different approach which I appreciate. He focused on des
 
 Ryan - My main focus was to come up with some ideas that would make our site stand out and also present the user with a more unique and enriching experience.
 
+Ainsleigh - Ryan highlighted unique ideas to make our site stand out, I especially like the idea of a clock/timer so the user knows their time spent on a site has a direct influence on emissions. 
+
 ## Storyboard:
 
 <img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/StoryBoard-wireframe.png">
+
+Key elements:
+- navigation menu inorder to easily find certain parts of the project
+- CO2 live emissions timer in the top corner that follows the user as they scroll
+- horizontal scrolling so the site is not excessively long
 
 
 
