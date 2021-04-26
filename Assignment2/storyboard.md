@@ -3,16 +3,19 @@
 ## Mindmaps
 
 ### Sebastien:
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/42de82dd3ebb20699de54e740143693c888060df/Assignment2/UX%20Design%20Images/mindmapSD.jpg" width = "300">
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/42de82dd3ebb20699de54e740143693c888060df/Assignment2/UX%20Design%20Images/mindmapSD.jpg" width = "600">
+</p>
 
 ### Ainsleigh:
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ainsleigh-MindMap.jpg" width = "300">
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ainsleigh-MindMap.jpg" width = "600">
+</p>
 
 ### Ryan: 
-
-<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ryan-Mindmap.JPG" width = "300">
+<p align="center">
+<img src = "https://github.com/ryanorlando/DH151-Project/blob/33a6ee928a2b10b7264e9d390dd3aaf1d9ece3df/Assignment2/UX%20Design%20Images/Ryan-Mindmap.JPG" width = "600">
+</p>
 
 ## Crazy Eights
 
